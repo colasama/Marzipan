@@ -1,6 +1,6 @@
 # Marzipan
 
-![sample](D:\code\Marzipan\README.assets\sample.jpg)
+![sample](.\assets\sample.jpg)
 
 <div style="text-align: center">[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]</div>
 
