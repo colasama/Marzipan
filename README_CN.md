@@ -1,20 +1,28 @@
 # Marzipan
 
-![sample](assets\sample.jpg)
+![sample](./assets/sample.jpg)
 
-<div style="text-align: center">[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]</div>
+<p align="center">
+  <img src="https://licensebuttons.net/l/by-nc/4.0/88x31.png"></img>
+</p>
 
-<div style="text-align: center"><a href="./README.md">English</a> | 简体中文</div>
+<p align="center">
+  <a href="./README.md">English</a> | 简体中文
+</p>
 
 一款简单焊接的，小巧的模块化 Smol Slimes / nRFSlime 方案！尺寸仅为 40\*28\*17mm。
 
-[!CAUTION]
-目前的版本存在以下问题：
-- 使用 LWKJ 的 ICM-45686 模块情况下，打开开关启动时无法识别传感器，需要再点击一下按钮才能正常启动。
-- 按钮工作情况与预期不符。
-欢迎提出 PR 进行修复！
-
 如果想要了解更多关于 Smol Slimes / nRFSlime 的事情，欢迎阅读 [Smol Slime - SlimeVR Docs](https://docs.slimevr.dev/diy/smol-slime.html)。
+
+>[!CAUTION]
+>
+>目前的版本存在以下问题：
+>
+>- 使用 LWKJ 的 ICM-45686 模块情况下，打开开关启动时无法识别传感器，需要再点击一下按钮才能正常启动。
+>- 按钮工作情况与预期不符。
+>  
+>欢迎提出 PR 进行修复！
+
 
 ## 文件说明
 
