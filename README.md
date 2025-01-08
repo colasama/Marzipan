@@ -44,7 +44,9 @@ For the case, two versions are provided:
 
 The version with heat insert nuts is more durable.
 
-For Tuozhu printers, pre-configured printing settings are provided here.
+For Bambu Lab printers, pre-configured printing settings are provided here.
+
+**https://makerworld.com/zh/models/966982**
 
 The case files in the repository are designed to fit **25mm-wide straps** and are also compatible with ReboCap’s quick-release system.
 
