@@ -1,23 +1,27 @@
 # Marzipan
 
-![sample](.\assets\sample.jpg)
+![sample](./assets/sample.jpg)
 
-<div style="text-align: center">[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]</div>
+<p align="center">
+  <img src="https://licensebuttons.net/l/by-nc/4.0/88x31.png"></img>
+</p>
 
-<div style="text-align: center">English | <a href="./README_CN.md">简体中文</a></div>
+<p align="center">
+  English | <a href="./README_CN.md">简体中文</a>
+</p>
+
 
 A compact and easy soldering modular Smol Slimes / nRFSlime solution with dimensions of 40x28x17mm!
 
-[!CAUTION]
-
-The current version (1.1) has the following issues:
-
-- When using the ICM-45686 module from LWKJ, the sensor cannot be detected upon powering up the switch; you’ll need to press the button again to start it properly.
-- The button's functionality does not behave as expected.
-
-Pull Requests are welcome to help fix these issues!
-
 If you'd like to learn more about Smol Slimes / nRFSlime, feel free to read the [Smol Slime - SlimeVR Docs](https://docs.slimevr.dev/diy/smol-slime.html).
+
+>[!CAUTION]
+>The current version (1.1) has the following issues:
+>
+>- When using the ICM-45686 module from LWKJ, the sensor cannot be detected upon powering up the switch; you’ll need to press the button again to start it properly.
+>- The button's functionality does not behave as expected.
+>
+>Pull Requests are welcome to help fix these issues!
 
 ## Description
 
